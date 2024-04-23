@@ -1,0 +1,54 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: lightblue;
+
+
+}
+
+/* div styles */
+.common{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: center;
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.middle{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: center;
+
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: lightgreen;
+    font-style:italic;
+    font-weight: bold;
+
+}
+
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid lightgreen;
+
+}
+
+.title{
+    position: center
+
+}
